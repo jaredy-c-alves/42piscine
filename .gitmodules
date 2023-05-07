@@ -1,0 +1,30 @@
+[submodule "c-00"]
+	path = c-00
+	url = https://github.com/jaredy-c-alves/42piscine--c-00.git
+[submodule "c-01"]
+	path = c-01
+	url = https://github.com/jaredy-c-alves/42piscine--c-01.git
+[submodule "c-02"]
+	path = c-02
+	url = https://github.com/jaredy-c-alves/42piscine--c-02.git
+[submodule "c-03"]
+	path = c-03
+	url = https://github.com/jaredy-c-alves/42piscine--c-03.git
+[submodule "c-04"]
+	path = c-04
+	url = https://github.com/jaredy-c-alves/42piscine--c-04.git
+[submodule "c-05"]
+	path = c-05
+	url = https://github.com/jaredy-c-alves/42piscine--c-05.git
+[submodule "c-06"]
+	path = c-06
+	url = https://github.com/jaredy-c-alves/42piscine--c-06.git
+[submodule "c-07"]
+	path = c-07
+	url = https://github.com/jaredy-c-alves/42piscine--c-07.git
+[submodule "c-08"]
+	path = c-08
+	url = https://github.com/jaredy-c-alves/42piscine--c-08.git
+[submodule "c-09"]
+	path = c-09
+	url = https://github.com/jaredy-c-alves/42piscine--c-09.git
