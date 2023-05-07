@@ -28,3 +28,9 @@
 [submodule "c-09"]
 	path = c-09
 	url = https://github.com/jaredy-c-alves/42piscine--c-09.git
+[submodule "shell-00"]
+	path = shell-00
+	url = https://github.com/jaredy-c-alves/42piscine--shell-00.git
+[submodule "shell-01"]
+	path = shell-01
+	url = https://github.com/jaredy-c-alves/42piscine--shell-01.git
